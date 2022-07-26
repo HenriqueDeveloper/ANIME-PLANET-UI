@@ -1,0 +1,29 @@
+.container-fluid .select-margin {
+  margin-top: 5px;
+}
+
+#tabela .linha-tabela a {
+  text-decoration: none;
+  cursor: pointer;
+}
+#tabela .linha-tabela a:hover {
+  color: #212529;
+}
+#tabela thead {
+  text-align: center;
+}
+
+.linha-tabela {
+  text-align: center;
+  border: 1px solid #dee2e6;
+}
+.linha-tabela .imagem-tabela {
+  height: 90px;
+  width: 90px;
+}
+
+h4 {
+  display: inline;
+}
+
+/*# sourceMappingURL=estilo.css.map */

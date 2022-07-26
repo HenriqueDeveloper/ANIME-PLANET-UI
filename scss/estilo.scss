@@ -1,0 +1,31 @@
+$corBorda: #dee2e6;
+$corHover: #212529;
+
+.container-fluid {
+    .select-margin{
+       margin-top: 5px;
+    }
+}
+#tabela {
+    .linha-tabela a {
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .linha-tabela a:hover{
+        color: $corHover;
+    }
+    thead {
+    text-align: center;
+    }
+}
+.linha-tabela {
+    text-align: center;
+    border: 1px solid $corBorda ;
+    .imagem-tabela {
+        height: 90px;
+        width: 90px;
+    }
+}
+h4{
+    display: inline;
+}
